@@ -9,6 +9,7 @@ Amacımız: Bu kaynak kodları temel alarak; sizlerin de kendi yapay zeka araçl
 Altyapı: Python  
 Üretici AI: Antigravity Kodlama Aracı  
 Platform: Windows  
+Python ile kodlandığı için AI araçları ile kolaylıkla Linux, MacOS frokları yapılabilir.
 
 # 📦 Çalıştırma ve Build Alma
 Projeyi Çalıştırma:
