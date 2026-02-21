@@ -38,3 +38,15 @@ Kod bilginiz temel seviyenin üzerindeyse geliştirilen kodlara bakıp manuel ha
 
 # 📄 Lisans
 Bu proje, özgür yazılımı desteklemek adına GNU GPL v3 lisansı ile sunulmaktadır.
+
+
+Ekran Görüntüleri:
+<img width="1919" height="984" alt="Ekran görüntüsü 2026-02-21 214653" src="https://github.com/user-attachments/assets/8ddd9279-48dd-4cce-8bf7-60a75b071a27" />
+<img width="1919" height="1000" alt="Ekran görüntüsü 2026-02-21 214622" src="https://github.com/user-attachments/assets/46941e5d-0869-42bb-861b-97c3a7613b26" />
+<img width="1919" height="993" alt="Ekran görüntüsü 2026-02-21 214610" src="https://github.com/user-attachments/assets/f05ab96b-427b-4b33-99e4-c59d1ec9a708" />
+<img width="1919" height="995" alt="Ekran görüntüsü 2026-02-21 214558" src="https://github.com/user-attachments/assets/cecc310b-eb91-4646-977b-2286c957505f" />
+<img width="1919" height="994" alt="Ekran görüntüsü 2026-02-21 214546" src="https://github.com/user-attachments/assets/ce469498-17b6-4119-9241-c54b2715a0d6" />
+<img width="1919" height="993" alt="Ekran görüntüsü 2026-02-21 214534" src="https://github.com/user-attachments/assets/2c817d0e-24c0-4cd6-a070-0b05c841725a" />
+<img width="1919" height="996" alt="Ekran görüntüsü 2026-02-21 214522" src="https://github.com/user-attachments/assets/f187b034-862b-438a-a278-c6d19f01de3a" />
+<img width="1919" height="1005" alt="Ekran görüntüsü 2026-02-21 214055" src="https://github.com/user-attachments/assets/2749f9d5-dbb6-4e13-aa52-68ab85548f8a" />
+
