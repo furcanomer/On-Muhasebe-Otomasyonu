@@ -6,9 +6,9 @@ Kaynak kodlar geliştirilmeye muhtaçtır.
 Amacımız: Bu kaynak kodları temel alarak; sizlerin de kendi yapay zeka araçlarınızla (ChatGPT, Claude, Cursor, Gemini vb.) bu projeyi çatallamanız (fork), hataları ayıklamanız ve hep birlikte kararlı, açık kaynak ve tamamen ücretsiz bir ön muhasebe programını topluma kazandırmamızdır.
 
 # 🛠 Teknik Bilgiler
-Altyapı: Python
-Üretici AI: Antigravity Kodlama Aracı
-Platform: Windows
+Altyapı: Python  
+Üretici AI: Antigravity Kodlama Aracı  
+Platform: Windows  
 
 # 📦 Çalıştırma ve Build Alma
 Projeyi Çalıştırma:
