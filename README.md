@@ -1,4 +1,5 @@
-#Ön Muhasebe Otomasyonu
+# Ön Muhasebe Otomasyonu
+
 Bu proje, Antigravity yapay zeka aracı kullanılarak oluşturulmuş bir ön muhasebe yazılımıdır.
 Kaynak kodlar geliştirilmeye muhtaçtır.
 
