@@ -3,6 +3,10 @@
 Bu proje, Antigravity yapay zeka aracı kullanılarak oluşturulmuş bir ön muhasebe yazılımıdır.
 Kaynak kodlar geliştirilmeye muhtaçtır.
 
+Programın Görünümü
+<img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/4ebbe35f-fe07-48eb-8e26-a2d9501f02fb" />
+
+
 Amacımız: Bu kaynak kodları temel alarak; sizlerin de kendi yapay zeka araçlarınızla (ChatGPT, Claude, Cursor, Gemini vb.) bu projeyi çatallamanız (fork), hataları ayıklamanız ve hep birlikte kararlı, açık kaynak ve tamamen ücretsiz bir ön muhasebe programını topluma kazandırmamızdır.
 
 # 🛠 Teknik Bilgiler
