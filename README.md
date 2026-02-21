@@ -23,7 +23,7 @@ python build.py
 
 # 🤝 Nasıl Katkı Sağlanır?
 Bu projeyi "mükemmel" hale getirmek için profesyonel bir yazılımcı olmanıza gerek yok. İnternet üzerinden basit bir
-yazılım kursu bitirmiş olmanız bile yeterli. iyi bir "AI Prompt" yeteneğiniz varsa iyi olur ama bu da yoksa herhenagi bir yapay zekadan
+yazılım kursu bitirmiş olmanız bile yeterli. iyi bir "AI Prompt" yeteneğiniz varsa iyi olur ama bu da yoksa herhangi bir yapay zekadan
 gelişmiş promtları zaten alabilirsiniz. (Şunu sana daha iyi yaptırabilmek için sana nasıl promt girmeliyim vs.)
 
 # Projeyi Fork'layın.
