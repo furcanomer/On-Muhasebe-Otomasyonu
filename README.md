@@ -7,7 +7,7 @@ Programın Görünümü
 <img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/4ebbe35f-fe07-48eb-8e26-a2d9501f02fb" />
 
 
-Amacımız: Bu kaynak kodları temel alarak; sizlerin de kendi yapay zeka araçlarınızla (ChatGPT, Claude, Cursor, Gemini vb.) bu projeyi çatallamanız (fork), hataları ayıklamanız ve hep birlikte kararlı, açık kaynak ve tamamen ücretsiz bir ön muhasebe programını topluma kazandırmamızdır.
+Amacımız: Bu kaynak kodları temel alarak; sizlerin de kendi yapay zeka araçlarınızla (ChatGPT, Claude, Cursor, Gemini vb.) bu projeyi çatallamanız (fork), hataları ayıklamanız ve hep birlikte kararlı, bir ön muhasebe programını topluma kazandırmamızdır.
 
 # 🛠 Teknik Bilgiler
 Altyapı: Python  
@@ -35,9 +35,6 @@ gelişmiş promtları zaten alabilirsiniz. (Şunu sana daha iyi yaptırabilmek i
 
 Kodları kendi yapay zeka aracınıza yükleyin ve "Bu koddaki hataları gider, şu özelliği ekle" diyerek geliştirin.
 Kod bilginiz temel seviyenin üzerindeyse geliştirilen kodlara bakıp manuel hata denetimi yapmanız değerlidir.
-
-# 📄 Lisans
-Bu proje, özgür yazılımı desteklemek adına GNU GPL v3 lisansı ile sunulmaktadır.
 
 
 Ekran Görüntüleri:
