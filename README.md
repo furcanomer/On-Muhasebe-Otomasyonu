@@ -36,6 +36,11 @@ gelişmiş promtları zaten alabilirsiniz. (Şunu sana daha iyi yaptırabilmek i
 Kodları kendi yapay zeka aracınıza yükleyin ve "Bu koddaki hataları gider, şu özelliği ekle" diyerek geliştirin.
 Kod bilginiz temel seviyenin üzerindeyse geliştirilen kodlara bakıp manuel hata denetimi yapmanız değerlidir.
 
+# Lisans
+BSD 3-Clause lisansını seçmemin nedeni, projemin hem ticari şirketler tarafından ücretli ürünlere dönüştürülmesine 
+hem de gönüllü topluluklarca ücretsiz olarak paylaşılmasına olanak tanımasıdır. Bu lisans aynı zamanda adımın izinsiz reklam amaçlı 
+kullanılmasını engellerken, farklı forkların rekabet etmesini teşvik ederek daha ucuz fiyatların ortaya çıkmasına katkı sağlar.
+
 
 Ekran Görüntüleri:
 <img width="1919" height="984" alt="Ekran görüntüsü 2026-02-21 214653" src="https://github.com/user-attachments/assets/8ddd9279-48dd-4cce-8bf7-60a75b071a27" />
